@@ -28,8 +28,8 @@ export default {
   NEWSLETTERID: process.env.NEWSLETTERID || "120363426563532140@newsletter",
  
   // ===== OWNER & DEVELOPER SETTINGS =====
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "92342*******",
-  OWNER_NAME: process.env.OWNER_NAME || "Jᴀᴡᴀᴅ TᴇᴄʜX",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "923449272045",
+  OWNER_NAME: process.env.OWNER_NAME || "Abid Malang",
   SUDO: process.env.SUDO 
     ? process.env.SUDO.split(',').map(s => s.trim()) 
     : ["123@lid"],
